@@ -1,0 +1,8 @@
+channels: [https://t.me/bestmemes, https://t.me/thedankestmemes, https://t.me/LaQeque, https://t.me/brat_oracle, https://t.me/xdmem]
+max_posts: 1
+path_media_dir: './data'
+
+api:
+  id:  #your api_id
+  hash:  #your api_hash 
+
